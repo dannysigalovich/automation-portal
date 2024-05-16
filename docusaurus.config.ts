@@ -3,20 +3,21 @@ import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
-  title: "Automation Department Site",
+  title: "Automation Section Site",
   tagline: "Best team in TLV",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://your-docusaurus-site.example.com",
+  url: "https://dannysigalovich.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/automation.github.io/",
+  baseUrl: "/automation-portal/",
+  trailingSlash: false,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "dannysigalovich", // Usually your GitHub org/user name.
+  projectName: "automation-portal", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -58,21 +59,21 @@ const config: Config = {
     // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",
     navbar: {
-      title: "My Site",
+      title: "Automation Section",
       logo: {
         alt: "My Site Logo",
-        src: "img/logo.svg",
+        src: "img/rocket.svg",
       },
       items: [
         {
           type: "docSidebar",
           sidebarId: "tutorialSidebar",
           position: "left",
-          label: "Automation Portal",
+          label: "Main",
         },
         { to: "/blog", label: "Blog", position: "left" },
         {
-          href: "https://github.com/facebook/docusaurus",
+          href: "https://github.com/dannysigalovich/automation-portal",
           label: "GitHub",
           position: "right",
         },
@@ -85,7 +86,7 @@ const config: Config = {
           title: "Docs",
           items: [
             {
-              label: "Automation Portal",
+              label: "Main",
               to: "/docs/intro",
             },
           ],
@@ -116,7 +117,7 @@ const config: Config = {
             },
             {
               label: "GitHub",
-              href: "https://github.com/facebook/docusaurus",
+              href: "https://github.com/dannysigalovich/automation-portal",
             },
           ],
         },
