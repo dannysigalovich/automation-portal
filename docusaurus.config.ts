@@ -5,7 +5,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 const config: Config = {
   title: "Automation Section Site",
   tagline: "Best team in TLV",
-  favicon: "img/favicon.ico",
+  favicon: "img/automatio.ico",
 
   // Set the production url of your site here
   url: "https://dannysigalovich.github.io",
