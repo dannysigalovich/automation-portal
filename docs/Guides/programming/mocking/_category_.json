@@ -1,0 +1,9 @@
+{
+  "label": "Mocking",
+  "collapsed": "true",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Here you can find all the information you need to mock your API."
+  }
+}

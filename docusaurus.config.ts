@@ -71,7 +71,7 @@ const config: Config = {
           position: "left",
           label: "Main",
         },
-        { to: "/blog", label: "Blog", position: "left" },
+        { to: "/blog", label: "Blog", position: "right" },
         {
           href: "https://github.com/dannysigalovich/automation-portal",
           label: "GitHub",
@@ -91,23 +91,7 @@ const config: Config = {
             },
           ],
         },
-        {
-          title: "Community",
-          items: [
-            {
-              label: "Stack Overflow",
-              href: "https://stackoverflow.com/questions/tagged/docusaurus",
-            },
-            {
-              label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus",
-            },
-            {
-              label: "Twitter",
-              href: "https://twitter.com/docusaurus",
-            },
-          ],
-        },
+
         {
           title: "More",
           items: [

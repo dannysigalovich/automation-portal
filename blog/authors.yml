@@ -15,3 +15,21 @@ slorber:
   title: Docusaurus maintainer
   url: https://sebastienlorber.com
   image_url: https://github.com/slorber.png
+
+dimitry:
+  name: Dimitry Sigalovich
+  title: Software Engineer
+  url: https://github.com/dannysigalovich
+  image_url: https://github.com/dannysigalovich.png
+
+edi:
+  name: edi
+  title: QA Team leader
+  url: https://github.com/dannysigalovich
+  image_url: https://github.com/dannysigalovich.png
+
+evgeny:
+  name: evgeny
+  title: Integration Team Leader
+  url: https://github.com/dannysigalovich
+  image_url: https://github.com/dannysigalovich.png
