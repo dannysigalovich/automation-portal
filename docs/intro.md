@@ -2,15 +2,23 @@
 sidebar_position: 1
 ---
 
-# Learning Center
+# ברוכים הבאים לאתר של צוות אוטומציה
 
-Let's discover **Automation Wiki**.
+ניתן למצוא פה את הנושאים הבאים
 
-### Subjects
+### נושאים
 
 - Code Styling
 - Third Parties
 - Contacts
 - Development Process
 - Version Control
-- **And More**
+- **עוד הרבה דברים :blush:**
+
+
+
+
+
+
+
+
