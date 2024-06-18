@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# Common Architectures Used in Modern Python Development
+# Common Architectures 
 
 ## 1. Monolithic Architecture
 - **Description**: A single-tiered application where all components are interconnected and interdependent.
