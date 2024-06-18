@@ -19,11 +19,11 @@ const FeatureList: FeatureItem[] = [
     Svg: require("@site/static/img/rocket.svg").default,
     description: <></>,
   },
-  {
-    title: "Powered by React",
-    Svg: require("@site/static/img/rocket.svg").default,
-    description: <></>,
-  },
+  // {
+  //   title: "Powered by React",
+  //   Svg: require("@site/static/img/rocket.svg").default,
+  //   description: <></>,
+  // },
 ];
 
 function Feature({ title, Svg, description }: FeatureItem) {

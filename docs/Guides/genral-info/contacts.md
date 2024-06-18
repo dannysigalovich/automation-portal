@@ -8,24 +8,33 @@ sidebar_position: 1
 - Noam Gruber
 - Ori Zeiri
 - Liran Nagar
-- Tomer Grossman
 - Shira Feigin
 - Rachel Cohen
-- Yossef Arar
 - Ron Zorea
 - Shay Perpinial
 - Shay Avraham
 - Adi Dangor
 - Ofek Smadja
-
+- Tamar Shelly
+- Sander Zeemann-Radai
+- Zahi Lahav
 
 **Manager:**
 - Danny Gabay
 
+**Outsourcing:**
+- EINAT DUVDEVANY FABIAN
+
 **HR:**
 - Gal Dana
-- Koren
+- Ron
 
 **Secuirty:**
 - Haim
+- Gaia
+
+**Facilities:**
+- ASAF SHEMER
+- Hagit Binyamin
+
 
