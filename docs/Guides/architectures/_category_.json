@@ -1,0 +1,9 @@
+{
+  "label": "architectures",
+  "collapsed": "true",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "In modern Python development, several architectural patterns are commonly used. Here are some of the most prevalent ones"
+  }
+}
