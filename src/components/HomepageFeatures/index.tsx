@@ -9,16 +9,16 @@ type FeatureItem = {
 };
 
 const FeatureList: FeatureItem[] = [
-  {
-    title: "Tutorials & Guides",
-    Svg: require("@site/static/img/rocket.svg").default,
-    description: <></>,
-  },
-  {
-    title: "Projects & Examples",
-    Svg: require("@site/static/img/rocket.svg").default,
-    description: <></>,
-  },
+  // {
+  //   title: "Tutorials & Guides",
+  //   Svg: require("@site/static/img/rocket.svg").default,
+  //   description: <></>,
+  // },
+  // {
+  //   title: "Projects & Examples",
+  //   Svg: require("@site/static/img/rocket.svg").default,
+  //   description: <></>,
+  // },
   // {
   //   title: "Powered by React",
   //   Svg: require("@site/static/img/rocket.svg").default,
