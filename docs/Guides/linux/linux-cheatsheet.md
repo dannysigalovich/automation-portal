@@ -1,7 +1,5 @@
-
 ---
-id: linux-commands-cheatsheet
-title: Linux Commands Cheatsheet
+sidebar_position: 1
 ---
 
 # Linux Commands Cheatsheet
