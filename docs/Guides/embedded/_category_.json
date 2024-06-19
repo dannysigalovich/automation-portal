@@ -1,0 +1,9 @@
+{
+  "label": "Compiler + Programming",
+  "collapsed": "true",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Go on embedded systems and WebAssembly\n\n"
+  }
+}
