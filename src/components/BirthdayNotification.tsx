@@ -32,8 +32,7 @@ const BirthdayNotification = () => {
 
         if (birthday) {
             console.log(`Found birthday: ${birthday.name}`); // Debugging line
-            // setBirthdayToday(`🎉 Today is ${birthday.name}'s birthday! 🎉`);
-            setBirthdayToday(`🎉 שי אברהם הצטרפה למשטרה 🎉`);
+            setBirthdayToday(`🎉 Today is ${birthday.name}'s birthday! 🎉`);
         } else {
             console.log('No birthday today'); // Debugging line
         }
