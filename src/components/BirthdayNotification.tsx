@@ -5,20 +5,18 @@ import styles from "./BirthdayNotification.module.css";
 const birthdays = [
     { date: "01-26", name: "Dimitry Sigalovich" },
     { date: "02-11", name: "Shira Feigin" },
-    { date: "03-10", name: "------" },
     { date: "04-23", name: "Ron Zorea" },
     { date: "04-26", name: "Ofek Smadja" },
     { date: "05-25", name: "Noam Gruber" },
     { date: "06-11", name: "Shay Perpinial" },
     { date: "06-16", name: "Rachel Cohen" },
-    { date: "07-04", name: "-----" },
     { date: "08-07", name: "Adi Dangor" },
     { date: "09-03", name: "Liran Nagar" },
     { date: "09-13", name: "Ori Zeiri" },
-    { date: "10-10", name: "-----" },
-    { date: "11-14", name: "-----" },
+    { date: "11-22", name: "Sander Zeemann-Radai" },
+    { date: "05-01", name: "Tamar Shelly" },
     { date: "12-31", name: "Shay Avraham" },
-    { date: "06-20", name: "Test Birthday" }, // Today's test birthday
+
 ];
 
 const BirthdayNotification = () => {
