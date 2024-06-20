@@ -49,8 +49,7 @@ sidebar_position: 1
 ## December
 - **December 31:** Shay Avraham
 
-| Tamar Shelly         | ht                                 |
-| Sander Zeemann-Radai | ht                                 |
+
 | Zahi Lahav           | ht                                 |
 
 
