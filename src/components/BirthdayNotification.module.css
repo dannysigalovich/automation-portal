@@ -1,0 +1,30 @@
+.birthdayNotification {
+  background-color: #ff4081;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+  font-size: 1.25rem;
+  font-weight: bold;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.closeButton {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-left: 1rem;
+  cursor: pointer;
+}
+
+.closeButton:hover {
+  color: #ffb3c6;
+}
