@@ -71,6 +71,7 @@ const config: Config = {
           position: "left",
           label: "Main",
         },
+        { to: "/birthdays", label: "Birthdays", position: "left" },
         { to: "/blog", label: "Blog", position: "right" },
         {
           href: "https://github.com/dannysigalovich/automation-portal",
